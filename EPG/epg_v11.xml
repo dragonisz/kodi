@@ -268,11 +268,7 @@ $(document).ready(function() {
 <td class='main-bg' valign='top' width='1200'><noscript><div class='noscript-message admin-message'><p>O&nbsp;nie! Ta strona potrzebuje włączonej obsługi języka <strong>JavaScript</strong>!</p><p>Twoja przeglądarka nie obsługuje tego języka lub ma wyłączoną jego obsługę. <strong>Włącz wykonywanie kodu JavaScript</strong> w swojej przeglądarce internetowej, aby skorzystać ze wszystkich funkcji strony<br /> lub <strong>skorzystaj</strong> z&nbsp;programu obsługującego język JavaScript, np. <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Mozilla Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Apple Safari'>Apple Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Google Chrome</a> lub <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Windows Internet Explorer'>Windows Internet Explorer</a> w&nbsp;wersji wyższej niż 6.</p></div>
 </noscript>
 <a id='content' name='content'></a>
-<table width='100%' style='padding-bottom: 5px;'><td><div style='background-color:#ffcd7f; color:#da0116; text-align:center; border:1px solid #e0e0e0;border-radius:15px; padding:5px;'><font size='2'>
 
-<b>UWAGA!!</b>  w wersjach beta wtyczki m-TVGuide mogą występować błędy, są to wersje wyłącznie do testów. Prosimy zgłaszać problemy w forum w temacie #testy. Do stałego oglądania należy używać wersji stabilnej dostępnej w repo mods-kodi
-
-</font></div></td></table>
 
 <center>
 <script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
@@ -440,7 +436,7 @@ Wsparcie dla kanalow 4K/UHD.&lt;br&gt;<br /><br /><i>Wersja: 8.2.0</i>] fade=[on
  <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=293' title='repository mbebe'>repository mbebe</a>
-			<td class='tbl6' align='right'>120</td>
+			<td class='tbl6' align='right'>125</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=5&download_id=292' title='Netflix (repo costagnait)'>Netflix (repo costa...</a>
@@ -448,7 +444,7 @@ Wsparcie dla kanalow 4K/UHD.&lt;br&gt;<br /><br /><i>Wersja: 8.2.0</i>] fade=[on
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=291' title='m-TVGuide 7.6.0'>m-TVGuide 7.6.0</a>
-			<td class='tbl6' align='right'>2254</td>
+			<td class='tbl6' align='right'>2255</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=290' title='Segos'>Segos</a>
@@ -469,23 +465,23 @@ Wsparcie dla kanalow 4K/UHD.&lt;br&gt;<br /><br /><i>Wersja: 8.2.0</i>] fade=[on
  <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=105' title='repo.mods-kodi'>repo.mods-kodi</a>
-			<td class='tbl6' align='right'>105199</td>
+			<td class='tbl6' align='right'>105209</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=51' title='m-TVGuide'>m-TVGuide</a>
-			<td class='tbl6' align='right'>96207</td>
+			<td class='tbl6' align='right'>96211</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=1&download_id=64' title='LIVE TV'>LIVE TV</a>
-			<td class='tbl6' align='right'>90423</td>
+			<td class='tbl6' align='right'>90424</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=14' title='Mrknow - repository.filmkodi.com-2.1.0.zip'>Mrknow - repository...</a>
-			<td class='tbl6' align='right'>85224</td>
+			<td class='tbl6' align='right'>85232</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=1' title='Repository SD-XBMC'>Repository SD-XBMC</a>
-			<td class='tbl6' align='right'>83286</td>
+			<td class='tbl6' align='right'>83289</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=10' title='Weeb.TV.0.1.4'>Weeb.TV.0.1.4</a>
@@ -501,7 +497,7 @@ Wsparcie dla kanalow 4K/UHD.&lt;br&gt;<br /><br /><i>Wersja: 8.2.0</i>] fade=[on
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=8' title='tv guide 2.0.0 + gui.py'>tv guide 2.0.0 + gu...</a>
-			<td class='tbl6' align='right'>13157</td>
+			<td class='tbl6' align='right'>13158</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=4&download_id=67' title='autoexec.zip'>autoexec.zip</a>
@@ -559,18 +555,18 @@ Wsparcie dla kanalow 4K/UHD.&lt;br&gt;<br /><br /><i>Wersja: 8.2.0</i>] fade=[on
 <table align='center' style='background-color:#2c2c2c' width='100%'>
 <td class='tbl6x'>
 <center>Online</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Gości: <b>16</b><br />
+Gości: <b>6</b><br />
 Użytkowników: <b>0</b><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
 <center>Statystyki rejestracji</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Dzisiaj: <b>4</b><br>
-Wczoraj: <b>3</b><br>
-W tym tygodniu: <b>4</b><br>
+Dzisiaj: <b>0</b><br>
+Wczoraj: <b>8</b><br>
+W tym tygodniu: <b>8</b><br>
 W poprzednim tygodniu: <b>28</b><br>
-W tym miesiącu: <b>50</b><br>
+W tym miesiącu: <b>54</b><br>
 W poprzednim miesiącu: <b>112</b><br>
-W tym roku: <b>446</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-<center>Zarejestrowanych: <b>29444</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-<center>Najnowszy: <a  href='../../profile.php?lookup=29597' class='tbl6 avatar-tooltip'><strong>Mariano1983italiano</strong></a></b></center></td></table></td>
+W tym roku: <b>450</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Zarejestrowanych: <b>29448</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Najnowszy: <a  href='../../profile.php?lookup=29601' class='tbl6 avatar-tooltip'><strong>stork</strong></a></b></center></td></table></td>
 </tr>
 </table>
 ﻿<table cellpadding='0' cellspacing='0' width='100%' class='border'>
@@ -606,7 +602,7 @@ $.lastseenusers.set({
 <table cellpadding='0' cellspacing='0' width='1200' align=''>
 <tr>
 <td height='25' height='25' class='footer' align='center' style='width: 55%; padding-top:15px'>
-<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->66,803,425 unikalnych wizyt</font></td></div>
+<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->66,861,259 unikalnych wizyt</font></td></div>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49762764-2"></script>
 <script>
